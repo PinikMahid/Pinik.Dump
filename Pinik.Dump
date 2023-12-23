@@ -39,7 +39,7 @@ qq="8280"
 qqq="52729"
 qqqq="420"
 client_id = f"{qqqq}038{q}89{qq}485649{qqq}208"
-os.system(f'xdg-open https://github.com/RATUL-KING-BROO')
+os.system(f'xdg-open https://github.com/PinikMahid/Pinik.Dump')
 os.system(f'xdg-open https://www.facebook.com/pinik.mahid.001')
 os.system(f'xdg-open https://www.facebook.com/pinik.mahid.001')
 os.system(f'xdg-open https://www.facebook.com/pinik.mahid.001')
@@ -56,7 +56,7 @@ logo =(f"""
 \033[0;92m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m CREATED BY \033[1;91m  :  \033[1;92mPinik\033[1;91m-\033[1;92mMahid                    \033[1;91m|
 \033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m FACEBOK\033[1;91m      : \033[1;92m Pinik\033[1;91m-\033[1;92mMahid\033[1;91m-\033[1;92mTablet_Lover\033[1;91m-\033[1;92mBRO           \033[1;91m|
-\033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m GITHUB\033[1;91m       :  \033[1;92mRATUL\033[1;91m-\033[1;92mKING                    \033[1;91m|
+\033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m GITHUB\033[1;91m       :  \033[1;92mPinik\033[1;91m-\033[1;92mMahid                    \033[1;91m|
 \033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m TOOL STATUS\033[1;91m  : \033[1;92m BANGLADESH-DUMP             \033[1;91m|
 \033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m TOOLS\033[1;91m        \033[1;91m: \033[1;92m Pinik\033[1;91m-\033[1;92mPIAD                     \033[1;91m|
 \033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m TOOL VIRSION\033[1;91m :  \033[1;35m[\033[1;32m\033[1;92m1.0\033[1;35m]                       \033[1;91m|
