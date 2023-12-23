@@ -213,7 +213,7 @@ class login():
 			login.login_WALA('')
 	def login_WALA(self):
 		system('clear');print(logo)
-		print("RATUL-KING-POWER-BROO- FOLLOW GITHUB- RATUL-KING-BROO  ! ")
+		print("Hlw Sir ,,,, I am Pinik_Mahid  (Just Mahid)  ! ")
 		print(50 * '-')
 		print('\033[1;91m[\033[1;92m1\033[1;91m]\033[1;92m \x1b[38;5;46mLOGIN WITH EMAIL PASS (RECOMMENDED)')
 		print('\033[1;91m[\033[1;92m2\033[1;91m]\033[1;92m \x1b[38;5;46mLOGIN WITH cookieS (RECOMMENDED)')
